@@ -64,3 +64,6 @@ version 1.1.3! data 9.21.2026
 
 version 1.1.4! data 9.24.2026
 1. был добавлен бета AI Assistent.
+
+version 1.1.5 data 10.2.2026
+1. BugFix
